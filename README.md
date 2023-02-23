@@ -1,5 +1,5 @@
 # Klausmeier
-Implementation of Klausmeier's model for the striped patterns in semi-arid environments:
+Implementation of Klausmeier's model for striped patterns in semi-arid environments:
 
 ![Niger,_tiger_bush_(1)](https://user-images.githubusercontent.com/17238972/220868145-2cdbefe3-2ad5-41de-b8f0-8920ae6d4afc.jpg)
 
